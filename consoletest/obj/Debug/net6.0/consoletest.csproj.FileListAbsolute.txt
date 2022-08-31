@@ -1,0 +1,15 @@
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\bin\Debug\net6.0\consoletest.exe
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\bin\Debug\net6.0\consoletest.deps.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\bin\Debug\net6.0\consoletest.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\bin\Debug\net6.0\consoletest.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\bin\Debug\net6.0\consoletest.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\refint\consoletest.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\consoletest.genruntimeconfig.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\consoletest\consoletest\obj\Debug\net6.0\ref\consoletest.dll
