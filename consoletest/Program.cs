@@ -15,7 +15,7 @@ a2.name = "bad snake";
 
 s1.hp -= 70;
 a1.hp -= 10;
-
+// ey 
 
 Console.WriteLine(s1.hp);
 Console.WriteLine(s2.hp);
